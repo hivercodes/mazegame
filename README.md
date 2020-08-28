@@ -1,1 +1,3 @@
 # mazegame
+#first commit."
+
